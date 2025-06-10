@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mymenu.app-mergeDebugResources-29:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Legion\\.gradle\\caches\\8.10.2\\transforms\\aadb84fd20d1109d9ee9c0ab093d20b2\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

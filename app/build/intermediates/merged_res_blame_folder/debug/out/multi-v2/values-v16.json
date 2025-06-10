@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mymenu.app-mergeDebugResources-29:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Legion\\.gradle\\caches\\8.10.2\\transforms\\c7d799ae4b712cde4f9a7581b5fdc727\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Legion\\.gradle\\caches\\8.10.2\\transforms\\aadb84fd20d1109d9ee9c0ab093d20b2\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\0bfa8fe333243aaf6209a1b8fdc82c24\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Legion\.gradle\caches\8.10.2\transforms\6de66ecc90aba1f7dc12e6e7b6c7ce28\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\8319eb26551c93fcf36ea5bded81ed7f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\aadb84fd20d1109d9ee9c0ab093d20b2\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\ab55bbb5ec476cb3422989344697cec2\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Legion\.gradle\caches\8.10.2\transforms\1d412601e88261084765ef89b554e897\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Legion\.gradle\caches\8.10.2\transforms\25607696fb81b15b192e796e03cc9fe7\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c32fd13b9585675fe64862d5ddf50f6b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\7e6df4716f0f6ebeadae136b3123e4ee\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\a294b12b91630fd9f0b1544f5929723c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\254d4e06d82d191edf6fc9434ba38d4c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\de52522336050f99c762fe3e757d545f\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\591f0aceb789ac3ee39f88e4251bea83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\3a8c47fd8ba099c1b2bba68ac1f3d7a0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\79fa7b4945791667e5f23e02dc64f10e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\3edd4f508721b76a7096bbf1e410c3c0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c9b524cfc9aa255bc3b8d5bec707dde3\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\228113d8a5dc712fae39c9df73f57bdc\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\08e3dddab40bdd8d7a5696faa9d0a62b\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\40f31039145d8100d44759adfd575071\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\be131f298b0e0d2878f3950c1124dade\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4ee9ded540fdcd01efb95d03631355a9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\a430882256a1b291f4491ebb9178a159\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\9d9fe4f23f97badd9e410d43e009eec6\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\614e944121ac6948e1f43bdc64270feb\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4a8893ae99d9a8b43070cfbbc126dbe2\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\43c9d2dba630561df884f61372de002d\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\3774fa0727872beeaac948e923a12115\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\8e3ef07545beeedd8946e61e2a6f1ef1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\0adc1fb45f8488b143f166c181894bbf\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\ce92571f344eb1482b597dafcdf6d35a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\b4692aab029e863636b15e2258cd3169\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cdd342ed37e33592c334bb1dfcce4207\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\e222c0dc734756783d34f754ccac07d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\44d8a2614ebde7f53dc0530fd9b2c177\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\627c770dceec9aa0b7720eaaefdbcb27\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\2e16a2ce08fc888919f6f74cde4b36ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\b1f9f7aa7284ee5b1f6b32ae477aa87d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:5:5-25:19
+INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\0bfa8fe333243aaf6209a1b8fdc82c24\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\0bfa8fe333243aaf6209a1b8fdc82c24\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Legion\.gradle\caches\8.10.2\transforms\6de66ecc90aba1f7dc12e6e7b6c7ce28\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Legion\.gradle\caches\8.10.2\transforms\6de66ecc90aba1f7dc12e6e7b6c7ce28\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4ee9ded540fdcd01efb95d03631355a9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4ee9ded540fdcd01efb95d03631355a9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\ce92571f344eb1482b597dafcdf6d35a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\ce92571f344eb1482b597dafcdf6d35a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\e222c0dc734756783d34f754ccac07d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\e222c0dc734756783d34f754ccac07d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:13:9-44
+	android:dataExtractionRules
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.mymenu.MainActivity
+ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:exported
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.mymenu.Activity2
+ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:23:9-71
+	android:exported
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:23:45-69
+	android:name
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:23:19-44
+activity#com.example.mymenu.Activity3
+ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:24:9-71
+	android:exported
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:24:45-69
+	android:name
+		ADDED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml:24:19-44
+uses-sdk
+INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\0bfa8fe333243aaf6209a1b8fdc82c24\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\0bfa8fe333243aaf6209a1b8fdc82c24\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Legion\.gradle\caches\8.10.2\transforms\6de66ecc90aba1f7dc12e6e7b6c7ce28\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Legion\.gradle\caches\8.10.2\transforms\6de66ecc90aba1f7dc12e6e7b6c7ce28\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\8319eb26551c93fcf36ea5bded81ed7f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\8319eb26551c93fcf36ea5bded81ed7f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\aadb84fd20d1109d9ee9c0ab093d20b2\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\aadb84fd20d1109d9ee9c0ab093d20b2\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\ab55bbb5ec476cb3422989344697cec2\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\ab55bbb5ec476cb3422989344697cec2\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Legion\.gradle\caches\8.10.2\transforms\1d412601e88261084765ef89b554e897\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Legion\.gradle\caches\8.10.2\transforms\1d412601e88261084765ef89b554e897\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Legion\.gradle\caches\8.10.2\transforms\25607696fb81b15b192e796e03cc9fe7\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Legion\.gradle\caches\8.10.2\transforms\25607696fb81b15b192e796e03cc9fe7\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c32fd13b9585675fe64862d5ddf50f6b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c32fd13b9585675fe64862d5ddf50f6b\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\7e6df4716f0f6ebeadae136b3123e4ee\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\7e6df4716f0f6ebeadae136b3123e4ee\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\a294b12b91630fd9f0b1544f5929723c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\a294b12b91630fd9f0b1544f5929723c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\254d4e06d82d191edf6fc9434ba38d4c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\254d4e06d82d191edf6fc9434ba38d4c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\de52522336050f99c762fe3e757d545f\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\de52522336050f99c762fe3e757d545f\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\591f0aceb789ac3ee39f88e4251bea83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\591f0aceb789ac3ee39f88e4251bea83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\3a8c47fd8ba099c1b2bba68ac1f3d7a0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\3a8c47fd8ba099c1b2bba68ac1f3d7a0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\79fa7b4945791667e5f23e02dc64f10e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\79fa7b4945791667e5f23e02dc64f10e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\3edd4f508721b76a7096bbf1e410c3c0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\3edd4f508721b76a7096bbf1e410c3c0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c9b524cfc9aa255bc3b8d5bec707dde3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c9b524cfc9aa255bc3b8d5bec707dde3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\228113d8a5dc712fae39c9df73f57bdc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\228113d8a5dc712fae39c9df73f57bdc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\08e3dddab40bdd8d7a5696faa9d0a62b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\08e3dddab40bdd8d7a5696faa9d0a62b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\40f31039145d8100d44759adfd575071\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\40f31039145d8100d44759adfd575071\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\be131f298b0e0d2878f3950c1124dade\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\be131f298b0e0d2878f3950c1124dade\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4ee9ded540fdcd01efb95d03631355a9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4ee9ded540fdcd01efb95d03631355a9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\a430882256a1b291f4491ebb9178a159\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\a430882256a1b291f4491ebb9178a159\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\9d9fe4f23f97badd9e410d43e009eec6\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\9d9fe4f23f97badd9e410d43e009eec6\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\614e944121ac6948e1f43bdc64270feb\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\614e944121ac6948e1f43bdc64270feb\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4a8893ae99d9a8b43070cfbbc126dbe2\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4a8893ae99d9a8b43070cfbbc126dbe2\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\43c9d2dba630561df884f61372de002d\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\43c9d2dba630561df884f61372de002d\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\3774fa0727872beeaac948e923a12115\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\3774fa0727872beeaac948e923a12115\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\8e3ef07545beeedd8946e61e2a6f1ef1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\8e3ef07545beeedd8946e61e2a6f1ef1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\0adc1fb45f8488b143f166c181894bbf\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\0adc1fb45f8488b143f166c181894bbf\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\ce92571f344eb1482b597dafcdf6d35a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\ce92571f344eb1482b597dafcdf6d35a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\b4692aab029e863636b15e2258cd3169\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\b4692aab029e863636b15e2258cd3169\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cdd342ed37e33592c334bb1dfcce4207\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cdd342ed37e33592c334bb1dfcce4207\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\e222c0dc734756783d34f754ccac07d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\e222c0dc734756783d34f754ccac07d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\44d8a2614ebde7f53dc0530fd9b2c177\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\44d8a2614ebde7f53dc0530fd9b2c177\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\627c770dceec9aa0b7720eaaefdbcb27\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\627c770dceec9aa0b7720eaaefdbcb27\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\2e16a2ce08fc888919f6f74cde4b36ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\2e16a2ce08fc888919f6f74cde4b36ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\b1f9f7aa7284ee5b1f6b32ae477aa87d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\b1f9f7aa7284ee5b1f6b32ae477aa87d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Legion\Downloads\PMP\lr3\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4ee9ded540fdcd01efb95d03631355a9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4ee9ded540fdcd01efb95d03631355a9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\ce92571f344eb1482b597dafcdf6d35a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\ce92571f344eb1482b597dafcdf6d35a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\64c559a0997fa98997b0e3da0f953a1d\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.mymenu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.mymenu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\c7d799ae4b712cde4f9a7581b5fdc727\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4ee9ded540fdcd01efb95d03631355a9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4ee9ded540fdcd01efb95d03631355a9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Legion\.gradle\caches\8.10.2\transforms\4ee9ded540fdcd01efb95d03631355a9\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Legion\.gradle\caches\8.10.2\transforms\cba26b3d5ff18430c95964678adba793\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
